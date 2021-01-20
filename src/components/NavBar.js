@@ -13,7 +13,7 @@ export default function NavBar() {
                     </NavLink>
                     <NavLink to='/post' activeClassName="bg-blue-200"
                     className="inline-flex items-center py-3 px-3 my-6 text-blue-700 rounded hover:text-black">
-                        Blog Posts
+                        Game Reviews
                     </NavLink>
                     <NavLink to='/project' activeClassName="bg-blue-200" 
                     className="inline-flex items-center py-3 px-3 my-6 text-blue-700 rounded hover:text-black">
