@@ -19,10 +19,6 @@ export default function NavBar() {
                     className="inline-flex items-center py-3 px-3 my-6 text-blue-700 rounded hover:text-black">
                         Projects
                     </NavLink>
-                    <NavLink to='/about' activeClassName="bg-blue-200"
-                    className="inline-flex items-center py-3 px-3 my-6 text-blue-700 rounded hover:text-black">
-                        About me
-                    </NavLink>
                 </nav>
                 <div className="inline-flex py-3 px-3 my-6">
                     <SocialIcon url="https://www.linkedin.com/in/kwan-yoon-990431195/" className="mr-4" target="_blank" fgColor='#fff' style={{ height: 35, width: 35 }} />

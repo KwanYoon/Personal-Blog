@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2cad755c.chunk.css",
+    "main.js": "/static/js/main.f247f0f2.chunk.js",
+    "main.js.map": "/static/js/main.f247f0f2.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3de9520d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3de9520d.js.map",
+    "static/js/2.e80ff589.chunk.js": "/static/js/2.e80ff589.chunk.js",
+    "static/js/2.e80ff589.chunk.js.map": "/static/js/2.e80ff589.chunk.js.map",
+    "static/js/3.72487b29.chunk.js": "/static/js/3.72487b29.chunk.js",
+    "static/js/3.72487b29.chunk.js.map": "/static/js/3.72487b29.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.2cad755c.chunk.css.map": "/static/css/main.2cad755c.chunk.css.map",
+    "static/js/2.e80ff589.chunk.js.LICENSE.txt": "/static/js/2.e80ff589.chunk.js.LICENSE.txt",
+    "static/media/self-square.efb38b80.jpg": "/static/media/self-square.efb38b80.jpg",
+    "static/media/uwaterloo.79fad263.jpg": "/static/media/uwaterloo.79fad263.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3de9520d.js",
+    "static/js/2.e80ff589.chunk.js",
+    "static/css/main.2cad755c.chunk.css",
+    "static/js/main.f247f0f2.chunk.js"
+  ]
+}

@@ -1,6 +1,6 @@
 import React from 'react';
 import banner from "../uwaterloo.jpg";
-import image from "../Mai_Sakurajima_img01.jpg";
+import image from "../self-square.jpg";
 
 export default function Home() {
     return (
